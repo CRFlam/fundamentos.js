@@ -9,6 +9,6 @@ let cadastroAtivado = true;
 console.log(primeiroNumero === segundoNumero)
 
 const texto1 = "Alura";
-const texto2 = "alura";
+const texto2 = "a";
 
 console.log(texto1 === texto2)
